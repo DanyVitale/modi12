@@ -1,0 +1,1 @@
+{"processes":{"5ba26b5a-ef4b-425f-b1d5-98d07cafc1cb":{"parent":"9bfe1391-1a0a-4ec7-afce-c7d572712ddd","children":[]},"9bfe1391-1a0a-4ec7-afce-c7d572712ddd":{"parent":null,"children":["5ba26b5a-ef4b-425f-b1d5-98d07cafc1cb"]}},"files":{"/home/usuario/modi10/src/eventEmitterClient.ts":["5ba26b5a-ef4b-425f-b1d5-98d07cafc1cb"]},"externalIds":{}}
